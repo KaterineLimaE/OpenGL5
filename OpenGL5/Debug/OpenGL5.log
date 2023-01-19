@@ -1,0 +1,13 @@
+﻿  Recta.cpp
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(38): warning C4244: 'argumento': conversión de 'float' a 'GLbyte'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(66): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(67): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(70): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(71): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(76): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(81): warning C4244: 'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(95): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(101): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(107): warning C4244: 'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+c:\users\user\documents\vi semestre\computación gráfica i\opengl\opengl5\opengl5\recta.cpp(120): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  OpenGL5.vcxproj -> C:\Users\user\Documents\VI SEMESTRE\Computación Gráfica I\OpenGL\OpenGL5\Debug\OpenGL5.exe
